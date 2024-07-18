@@ -1,0 +1,6 @@
+sanic
+sanic 
+secure 
+environs 
+sanic-envconfig
+databases[postgresql]
